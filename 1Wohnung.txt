@@ -1,0 +1,53 @@
+#租房
+
+##注意事项
+租房子一定要注意几个要点，每个重要信息最好都要问到：  
+
+1. **租金**。租金分为几部分。一部分就是房屋本身的租金，也就是所谓的冷租（Kaltmiete）, 除此之外，还有杂费（Nebenkosten），一般指污水处理，垃圾处理之类的，有些情况下可能还包含暖气费和电费。一般情况下，电费应该是不包含在 Nebenkosten 里面的。所以一定要问清楚租金的组成成份。
+
+1. **押金**。一般租房都要交2个月到3个月的押金，如果太多就要小心，也许这个房东对他的房子比较在乎，租户搬出去的时候不会把押金全退回来，要扣一部分，比如说因为地毯没清洁干净扣 50 欧。
+
+1. **家具**。带家具的（möblierte wohnung）和不带家具的房子各有优缺点。如果家具是房东的，那搬出去的时候家具坏了，房东应该会扣一点押金的。如果家具是上一个租户留下来的，那一般会要花一点钱来买，当你搬走的时候，如果下家不想要这些家具，那你就要负责把家具处理掉。
+
+1. **形式**。主要分为续租房（Unbefristete Miete）和 过渡房（Zwischenmiete）。Zwischenmiete 尤其要注意，如果是现在的租户不通过房东直接租给你，你一定要留下一些字据，写清楚时间，租金，押金之类的内容。要注意的是，学生宿舍的 Zwischenmiete 往往需要通过房管，房管一般只把宿舍租给学生。
+
+1. **骗子**。网上找房请小心“寄钥匙骗局”，房东会要求你先给他汇款，说收到钱后给你寄钥匙，这个“房东”一定是骗子。另外，有的中文论坛上发布租房信息的，会天花乱坠地描述一个极好的房子，然后找藉口说不能传图片，让你点击他的 QQ 空间链接，其实这是个钓鱼链接，点开是一个假的 QQ 登录页面，你输入了，他就盗的你的号了。
+
+
+##网上资源
+1. [http://www.campuslife.de/anzeigen](http://www.campuslife.de/anzeigen)：Kategorie 选 Wohnungen, Art 选 Angebote，找出来的房子几乎都是 Aachen 的，首先推荐在这找房子。
+
+1. [http://groups.google.de/group/oecher.wohnungsmarkt/topics](http://groups.google.de/group/oecher.wohnungsmarkt/topics)：这是 Google 新闻组，也有很多有用的信息，新闻组链接里的 Öcher 是 Aachen 的别称
+
+1. [http://www.wg-gesucht.de](http://www.wg-gesucht.de/wg-zimmer-in-Aachen.1.0.0.0.html): WG Gesucht 主要是 WG (Wohngemeinschaft) 的相关信息，也就是合租，通常很多学生喜欢选择合租，但合租可能会面临一些问题，比如共用一些生活用品，共用厨房厕所之类的，另外还要跟其它租户处好关系。一个双人或多人 WG 里面男女合租是很平常的情况。学生宿舍里也是随机分配的，没有特别把男女分开。
+
+1. [http://www.studenten-wg.de](http://www.studenten-wg.de/angebote_lesen.html?fuer=Zimmer%20in%20WG&stadt=Aachen): 同上，另一个找合租网站。
+
+1. [http://aachen.studenten-wohnung.de](http://aachen.studenten-wohnung.de/suche.php?resubmit=submit&typeort=&art=egal&zeit=30&zimmerzahl=egal&kaltmietevon=0&kaltmietebis=&zwischenmiete=alle&iPerPage=10&search_order=datum+DESC&iPerPage=25): 这是个主要面向学生的租房网站。
+
+1. [http://www.immobilienscout24.de](http://www.immobilienscout24.de): 这应该算是德国最大的房屋类网站，从租房到卖房都有，在这贴出租信息是要花钱的，所以要找套间比较合适，如果几个同学找不到合适的房间，可以试一下租一个大的。
+
+1. [Csuchen.de 亚琛版](http://www.csuchen.de/bbs/forumdisplay.php?fid=24): 亚琛当地学生论坛。要防 QQ 骗子，但如果找到合适的，就会比较简单，首先语言不是问题，另外也好商量，大家在国外，还是比较照顾同胞的。
+
+##学生宿舍
+- 在线申请大学学生宿舍：[http://www.wohnheime-aachen.de](http://www.wohnheime.rwth-aachen.de/bewerbung.html)。申请后一般不会直接给你宿舍，因为等学生宿舍的人比较多，每个学生宿舍都会有一份等待列表（Wartelist），如果申请之后，就要经常写邮件打电话问各个宿舍的负责人，在宿舍的网站上都会有联系方式的。更多信息请看这里: [www.studentenwerk-aachen.de](http://www.studentenwerk-aachen.de/wohnen/a_bis_z.asp)
+
+- [Newton appartment](http://www.hess-partner.de/newton/) 全是单个房间的宿舍楼，是私人的，与学校无关。在 Aachen 的同学都知道那。房子比较贵，楼管不是很友善，扣押金的事也常发生，如果不是找不到房子，一般不要考虑这里。
+ 
+T> ## 联系方式  
+T> 地址：Kühlwetterstrasse 8 52072 Aachen  
+T> 电话：+49 (241) 16 86 755  
+T> E-Mail Info@Newton-Apartments.de  
+
+
+##各种手续
+
+- 落户（Anmelden）。落户原来要求有效的租房合同，现在好像只要提供一个住址也行，不过有租房合同一定要带上。有暂住的住址就可以去尝试落户了。这样就可以先拿着落户证明（Meldebescheinigung）去银行激活账户，取钱出来用了。银行的帐号密码资料的都会寄到落户地址。如果你想让别人收信，注意下面的 c/o 的写法，能安全收取即可。延签则需要房屋合同，所以您要在签证到期之前找到一个正式的住处。延签时的房屋合同长度与签证长度无关，只有数月长的合同也是可以的。
+T> ## 让别人收信  
+T> c/o 是care of 的缩写。下面这样写的意思是请 李四 为 张三 收信，李四住在 Bahnhofstr. 1。  
+T> Zhang San  
+T> c/o Li Si  
+T> Bahnhofstr. 1  
+T> 52060 Aachen  
+- 搬入新家。拿到稳定的住处后，可以前去Bürgeramt改住址，然后去银行也改掉。当然，其他的如保险手机合同也要发信去更改。Aachen 的 Bürgeramt 地址是：Hackländerstraße 1。就在主火车站旁边，早上八点开门，周一开到下午四点，周三到下午六点，周二周四周五开到十二点半。##最坏打算如果我找不到房子，便宜旅馆也住不到，落地那天怎么办？
+- 和其他新生保持联络。有的人找到了房子，订好的青年旅馆可以让给您住。- 去学长学姐家借宿是一个办法。不过我要说，作为陌生人，寻求借宿的又远不止您一个，学长学姐们拒绝您的请求是理所应当的。虽然大家都是华人在海外，但我们没有权利要求别人为我们付出。华人之间更需要同情和理解，千万不要因此叹世态炎凉，那是很伤人心的。- 如果真有福得到学长学姐的接待，请抱最大的感恩的心来对待。如果他/她明示或暗示您付一部分房租，那按着您被接纳和省下的旅店费用，好好沟通，不要因沟通不好而错失了宝贵的友情。- 推荐加入 QQ群 RWTH-Aachen(47810599)积极寻求帮助。大家都是愿意尽力帮助您的
