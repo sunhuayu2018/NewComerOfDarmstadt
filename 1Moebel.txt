@@ -1,14 +1,66 @@
-#淘家具
+#家具及家电
 
-##IKEA
-因为Aachen 距荷兰不远，可以去 Heelen 的ikea:
+##购买新家具
+
+###IKEA
+
+因为Aachen 距荷兰不远，可以去 Heerlen 的ikea:
+
 [http://www.ikea.nl](http://www.ikea.com/nl/nl/store/heerlen)
 
-当然也可去科隆附近的，就是有点远了  
-http://www.ikea.de
+当然也可去科隆附近的，相对优点是学生票可以到达，缺点是比Heerlen的远。
 
-##二手电器
-Jülichstr （张鹏会去找到电话和地址）
+[http://www.ikea.de]( http://www.ikea.de)  
 
-##Ebay小广告区http://kleinanzeigen.ebay.de  东西种类很多，基本都要自取##CSuchen[http://www.csuchen.de](http://www.csuchen.de/bbs/forumdisplay.php?fid=24)
+在去IKEA之前，为了节省时间，也可以先在网站上挑好产品，记下号码，到那里就可以直接按照号码拿货了。也可以选择网上购买，需另付运费（起价29欧），就可以送货到您家。但是这个价格只是送到您楼下的价格，如果需要送上楼，或者需要安装，则需要付附加费。
+
+###Poco
+
+亚琛市内的廉价家具城有Poco，位于Gut-Dämme-Straße 26。从Bushof坐51路公交车到Tivolli下车即可找到。附近的还有“Porta!”，也是很大的家具城，但价格相对贵些。
+
+##购买新家电
+
+Aachen市内有Mediamarkt和Saturn两家家电城。Mediamarkt 在 Altposthof 那里。Saturn 在市中心步行街的Galerie Kauhof 后面。
+
+I> ## Mediamarkt   
+I> 地址：Franzstraße 6, 52064 Aachen   
+I> 电话：+49 241 56800  
+I> 网址：[http://www.mediamarkt.de](http://www.mediamarkt.de/mcs/marketinfo/Media-Markt-Aachen,66352,-3.html)  
+
+I> ## Saturn   
+I> 地址：Reihstraße 28, 52062 Aachen  
+I> 电话：+49 241 47950   
+I> 网址：[http://www.saturn.de](http://www.saturn.de/mcs/marketinfo/Saturn-Aachen,17343,-3.html)   
+
+
+但是一般情况下，同样的产品网上会相对比较便宜。如果你有时间可以货比三家，你可以通过下面的网站来寻找相对便宜的卖家。
+
+- [http://www.günstig.de/](http://www.günstig.de/)  
+- [http://www.billiger.de/](http://www.billiger.de/) 
+- [https://www.google.de]( https://www.google.de) Shopping
+- [https://www.amazon.de]( https://www.amazon.de)
+
+如果是购买电脑，手机等电子产品，也可以使用下面的网站来比价：
+
+[http://www.notebooksbilliger.de]( http://www.notebooksbilliger.de)
+
+
+##淘二手家具及电器
+
+1. Ebay小广告区 
+[http://kleinanzeigen.ebay.de](http://kleinanzeigen.ebay.de)   
+东西种类很多，而且价格合适，但是很多都要自取。  
+
+1. Kalaydo里的小广告去可以分类出只在Aachen的卖家:  
+[http://www.kalaydo.de/kleinanzeigen](http://www.kalaydo.de/kleinanzeigen/1/moebel-wohnen/o/aachen/?areaId=5313000&cityId=5313000)
+
+1. CSuchen 二手市场也可以淘到一些 Aachen 中国人的二手家具和电器: [http://www.csuchen.de](http://www.csuchen.de/bbs/forumdisplay.php?fid=24)
+
+1. 二手市场（Flohmarkt）。 Aachen及周边的二手市场，也叫做跳骚市场，是由 Melan Trödelmarkt 组织的。一般是在周日，在大型超市如 Kaufland 或者 Real等的停车场。二手市场都可以讲价格。也有一些全新的东西可以买到。您可以在 Melan 的网站上查看具体的时间及地点: [http://www.melan.de/](http://www.melan.de/)
+
+1. 还有一个重要途径就是捡。在德国，很多人把自己不用的家具或家电扔在马路上。有时候上面会帖一张条写着“Verschenken”，有时候不会。这时候您就可以挑选一些您合用的物品带回家。您需要仔细挑选，否则如果之后您还需要丢掉的话，就要支付家具处理费用。如果家电已经剪掉了电线，就表示它是坏掉了。
+
+1. Aachen市内的二手电器商店  
+Elektro Ralf 和 Elektro Willi& Sohn 分别位于 Jülicher Straße 75 和 Jülicher Straße 44。Ralf家的电话 0241-1689766。Willi&Sohn的电话 0241-537144。 Ralf家的电器，送货上门，免费安装，还有一年的保修期。
+
 
