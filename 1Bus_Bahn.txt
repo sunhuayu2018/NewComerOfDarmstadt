@@ -8,23 +8,23 @@
 
 - Aachen市区有4个火车站，对于学生而言，最常用的是Aachen Hbf，Aachen Schanz, Aachen West这三个，市区东侧还有 Aachen Rothe Erde 这个火车站。通常列车会依次经过 Aachen Rothe Erde, Aachen Hbf, Aachen Schanz 和 Aachen West，或者反向从 Aachen West 开往 Aachen Rothe Erde。
 - Aachen的市内交通信息：  
-[http://www.avv.de](http://www.avv.de)  
-[http://www.aseag.de](http://www.aseag.de) - 德国铁路信息:  
-[http://www.deutschebahn.com](http://www.deutschebahn.com)，或者 [http://www.db.de](http://www.db.de)- 火车票：在火车站的柜台 (DB Reisezentrum) 或自动售票机上可以很容易地买到火车票。- 关于学期票 Semester Ticket NRW/AVV 的免费坐车范围：州内的火车慢车，RE, RB, NRW, NRW-Express, S-Bahn等等，以及州内几个大城市的市内交通，细节请见[FAQ](http://www.studenten-nrw-ticket.de/faq.html)。需要注意的是，杜塞机场的 Sky Train 是不可以使用学期票的。另外，关于学期票带人的事情，每个学校的情况都有所不同，RWTH Aachen 2014年夏季学期是不可以使用学期票带人的, 学期票需要跟学生证同时使用。
+<http://www.avv.de>   
+<http://www.aseag.de> - 德国铁路信息:  
+<http://www.deutschebahn.com>，或者 <http://www.db.de>- 火车票：在火车站的柜台 (DB Reisezentrum) 或自动售票机上可以很容易地买到火车票。- 关于学期票 Semester Ticket NRW/AVV 的免费坐车范围：州内的火车慢车，RE, RB, NRW, NRW-Express, S-Bahn等等，以及州内几个大城市的市内交通，细节请见[FAQ](http://www.studenten-nrw-ticket.de/faq.html)。需要注意的是，杜塞机场的 Sky Train 是不可以使用学期票的。另外，关于学期票带人的事情，每个学校的情况都有所不同，RWTH Aachen 2014年夏季学期是不可以使用学期票带人的, 学期票需要跟学生证同时使用。
 - 出租车叫车电话 0241-22222, 0241-66666 或 0241-34441
 
 ##关于在线购买火车票
 
-查行程和订票都可以在德国铁路DB主页完成[http://www.bahn.de](http://www.bahn.de)
+查行程和订票都可以在德国铁路DB主页完成 <http://www.bahn.de>
 
 - ____怎么提前订特价火车票？____  
 德铁的常年特价票，就是平时大家常说的29欧起的特价票。特点是：  
-不论路线，固定价格，即29/39/49/59/69欧。短距离路线（250公里以下）也有19欧起的。  
+不论路线，固定价格，即 29/39/49/59/69 欧。短距离路线（250公里以下）也有 19 欧起的。  
 必须含有快车（ICE、IC/EC），可转接慢车，因此性质为长途特价。  
 需要注意：  
 1. 必须至少提前3天预订，最早可提前92天预订，否则只有原价。越早订特价票越多；  
 1. 必须指定车次；  
-1. 订票过程中两次提到银行卡，第一次是Identifizierungskarte，这张是用于乘车时身份验证，必须是乘车人的名字并且要随身携带。第二次是Zahlung，这时可以用任意卡支付。假如您自己没有信用卡或其他可以支付的网银，可以在第一步使用自己的Mastero卡（比如德意志银行的EC卡），第二步借用家人朋友的信用卡。  
+1. 订票过程中两次提到银行卡，第一次是 Identifizierungskarte，这张是用于乘车时身份验证，必须是乘车人的名字并且要随身携带。第二次是 Zahlung，这时可以用任意卡支付。假如您自己没有信用卡或其他可以支付的网银，可以在第一步使用自己的 Mastero 卡（比如德意志银行的EC卡），第二步借用家人朋友的信用卡。  
 
 - ____该买BahnCard么？____    
 DB的打折卡，一年有效（也有测试卡3个月有效）  

@@ -25,21 +25,21 @@ I> 周一不开门
 I> ## 鸿运来  
 I> 地址：Gut-Dämme-Straße 10-12  
 I> 电话：+49 241 9367 8488  
-I> 网址：[http://www.hongyunlai.de](http://www.hongyunlai.de)  
+I> 网址：<http://www.hongyunlai.de>  
 
 - 成吉思汗，馆如其名，高大上。就餐环境超级优雅，不提供餐巾纸，只提供布质白色方巾，摆盘相当讲究，卖相相当好，口味有点考虑西方人士，但还可以归为中餐。
 
 I> ## 成吉思汗   
 I> 地址：Franzstraße 21-23, 52064 Aachen  
 I> 电话：+49 241 48663  
-I> 网址：[http://www.dschingis-chan.de](http://www.dschingis-chan.de)  
+I> 网址：<http://www.dschingis-chan.de>  
 
 - 温州酒楼 (WEN-CHOW)，位于荷兰 Maastricht，以粤菜为主，同时提供多种广式小点心。
 
 I> ## 温州酒楼   
 I> 地址：Spoorweglaan 5, 6221BS Maastricht  
 I> 电话：+31 43 3214 540  
-I> 网址：[http://www.wen-chow.nl](http://www.wen-chow.nl)  
+I> 网址：<http://www.wen-chow.nl>  
 
 - 镛记 (Yong Kee)，也位于荷兰 Maastricht，也是以粤菜，广式小点心为主，价格亲民。
 
@@ -55,7 +55,7 @@ I> 电话：+31 43 3215 472
 I> ## Aachener Brauhaus   
 I> 地址：Kapuzinergraben 4, 52062 Aachen  
 I> 电话：+49 241 36017  
-I> 网址：[http://www.aachener-brauhaus.de](http://www.aachener-brauhaus.de)  
+I> 网址：<http://www.aachener-brauhaus.de>  
 
 - Vapiano, 意大利连锁餐厅，品尝意大利美味的好去处。
 
