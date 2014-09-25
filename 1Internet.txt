@@ -1,0 +1,57 @@
+#笔记本大学
+
+亚琛工大成为德国首批12所笔记本大学中的第一所
+
+##开通密码
+
+##邮箱设置
+
+##设置VPN
+
+##手机上网
+
+##网上选课
+
+L2P
+<https://www.elearning.rwth-aachen.de>
+
+##下载软件
+Microsoft 除 Office 以外的很多正版软件，比如操作系统，数据库，地图软件，Viso等等 
+
+campus-office softwareportal 
+
+##买Mac电脑
+
+##服务器集群
+  https://doc.itc.rwth-aachen.de/download/attachments/8750207/_p1_slides.pdf
+
+- 配置
+  CPU 160核  
+  内存 524GB  
+  网络 1Gbps  
+  可用硬盘： 
+    Home: H:盘 50G，私人硬盘，不会被删除  
+    Work: W:盘 50G，公共空间，如果空间不够会被清理  
+
+- 开通 HPC 帐号 
+  EN: High Performance Computing  
+  DE:Hochleistungsrechnen   
+  https://doc.itc.rwth-aachen.de/display/WINC/Home  
+
+- Remote Desktop 
+
+- 软件列表
+  操作系统: Windows Server
+  各种软件:
+
+  Abaqus  
+  ANSYS  
+  Embarcadero RAD Studio  
+  Maple  
+  Matlab  
+  Office  
+  Origin  
+  MS Visual Studio  
+  Mathematica  
+
+

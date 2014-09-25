@@ -6,9 +6,9 @@
 1Bus_Bahn.txt
 1Fahrrad.txt
 1Handy_Wifi.txt
+1Internet.txt
 1InternetTipps.txt
 1Mensa.txt
 1Muell.txt
 1Trinkgeld.txt
-1Gepaeck.txt
 1WirUeberUns.txt
