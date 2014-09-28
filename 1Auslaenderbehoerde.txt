@@ -2,10 +2,23 @@
 
 ## 住房登记 Anmelden
 
-来到 Aachen 的第一个星期内，就需要到居民登记处去落户。登记时，政府会给我们这些新来的人送些小礼物。比如优惠券，地图，城市指南之类的。 如果你德语不错，可以去网站上获取更多内容：
+来到 Aachen 的第一个星期内，就需要到居民登记处去落户。登记时，政府会给我们这些新来的人送些小礼物。比如优惠券，地图，城市指南之类的。
+
+落户原来要求有效的租房合同，现在好像只要提供一个住址也行，所以有暂住的住址就可以去尝试落户了，不过有租房合同最好还是带上。拿着落户证明（Meldebescheinigung）就可以去银行激活账户，取钱出来用了。银行的帐号密码资料的都会寄到落户地址。如果您想让别人收信，注意下面的 c/o 的写法，能安全收取即可。
+
+T> ## 让别人帮您收信  
+T> c/o 是care of 的缩写。下面这样写的意思是请 李四 为 张三 收信，李四住在 Bahnhofstraße 1。  
+T> Zhang San  
+T> c/o Li Si  
+T> Bahnhofstraße 1  
+T> 52060 Aachen  
+
+搬到稳定的住处后，可以前去 Bürgeramt 改住址，然后去银行也改掉。当然，其他的如保险手机合同也要发信去更改。
 
 德语说明：<http://bit.ly/WohnsitzAnmelden>  
 德语和英语说明：<http://www.rwth-aachen.de/go/id/bqee>
+
+Aachen 的三个 BürgerÄmter 地址是：
 
 I> ### Bürgerservice Bahnhofplatz  
 I> 地址：Hackländerstraße 1, 52064 Aachen  
@@ -64,9 +77,4 @@ I> Email：info.auslaendische.studenten@staedteregion-aachen.de
 
 相片处理好之后下载到电脑，然后打开 Word, 设置页面格式为 4 X 6，也就是一张相纸的大小 (102mm X 152mm), 接下来把图片插入文档，设置每张图片的大小为 45mm x 35mm，这样一张相纸可以排六张延签照片。最后保存为 JPG 格式就好了。
 
-将图片拷到 U 盘，然后在 [dm 商店](http://www.dm.de)的相片打印机上就可以打印了，一张相纸不到 20 Cent。市中心的几家 DM 店地址如下：
-
-I> ### dm in Aachen    
-I> Ursulinerstraße 7-9  
-I> Großkölnstraße 60  
-I> Adalbertstraße 80-82  
+将图片拷到 U 盘，然后在 [dm 商店](http://www.dm.de)的相片打印机上就可以打印了，一张相纸不到 20 Cent。市中心的几家 DM 店地址：Ursulinerstraße 7-9， Großkölnstraße 60， Adalbertstraße 80-82。

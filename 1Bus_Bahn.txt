@@ -6,7 +6,7 @@
 
 ## Aachen 市内交通
 
-- Aachen市区有4个火车站，对于学生而言，最常用的是Aachen Hbf，Aachen Schanz, Aachen West这三个，市区东侧还有 Aachen Rothe Erde 这个火车站。通常列车会依次经过 Aachen Rothe Erde, Aachen Hbf, Aachen Schanz 和 Aachen West，或者反向从 Aachen West 开往 Aachen Rothe Erde。
+- Aachen市区有4个火车站，对于学生而言，最常用的是Aachen Hbf，Aachen Schanz 和 Aachen West这三个，市区东侧还有 Aachen Rothe Erde 这个火车站。通常列车会依次经过 Aachen Rothe Erde, Aachen Hbf, Aachen Schanz 和 Aachen West，或者反向从 Aachen West 开往 Aachen Rothe Erde。
 - Aachen的市内交通信息：  
 <http://www.avv.de>   
 <http://www.aseag.de>
