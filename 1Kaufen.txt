@@ -1,18 +1,90 @@
-#购物指南
+﻿#购物指南
 
 ##步行街
-Kaufhof
+
+步行街地址：Friedrich-Wilhelm-platz，坐公交在 Elisenbrunnen 站下即可，这里有服装店像HM、Esprit、Zara等，鞋店，化妆品店等等。营业时间一般从上午10点开始到晚上7点，周日不开门。 
+
+### Payback
+Payback <http://www.payback.de> 卡是一种积分卡，如果在 Payback 联盟的商店买东西，结账的时候，可以按付款额的一定比例积分，虽然比较少，但集腋成裘，也不可小看。在 Kaufhof 结账的地方就可以拿一个申请表，填好交给柜台就好了，Payback 卡当场就可以使用。如果申请到 Payback 卡后，联盟经常会寄一些积分券到家里，比如说结账的时候使用 real 超市的 10 倍积分券，如果原来只能积一分的，现在就可以积 10 分。如果积了很多分，可以转到你的银行帐号，或者在消费的时候抵价使用。
+
+下面这张图就是 Payback 联盟的商家：
+
+{width=96%}
+![](images/partnermap.png)
+
+### Kaufhof
+Kaufhof 就位于这条步行街上，就是一个百货大楼，地下一楼是个超市，喜欢吃猪蹄的可以去看一下，零层卖的东西有点杂，有化妆品，手表，包包，文具等，从一楼起就会有专门的主题，如男装、女装、运动装。营业时间从 9：30 到 20:00，同样周日不开门。如果国内有家人过来，买东西很多的话，可以索取退税单，Kaufhof 是用的 [环球蓝联 Global Blue](http://www.globalblue.cn) 退税。
 
 
-##超市
-参考超市列表，不一定要全写，可以省略 edeka 等不常见的，但一定不要抄袭帖子里的任何一句话，如果抄袭可能引来版权问题
-http://www.mydict.org/t55-1-1.html
+##连锁超市 
 
+下面介绍一些比较常见的一些连锁超市，营业时间周一至周六基本都从早上7、8点到晚上9、10点，周日一般不开门。  
 
-##打折村
-介绍一下打折村，给出地址，网站等信息，至于怎么去，我们只在最后给出这个网址就可以了：
-http://www.csuchen.de/bbs/viewthread.php?tid=385837
+###ALDI
+
+{width=40%}
+![](images/Aldi.jpg)
+
+ALDI(阿尔迪)是德国公司阿尔迪南、北商业集团联盟的在全球的简写，Aachen 是属于[ALDI Süd](https://www.aldi-sued.de)，在邻近的 Vaals 小镇就是[ALDI Nord](http://www.aldi-nord.de/)。ALDI 是公认的最便宜的连锁超市，超市大小一般为中小型，商品基本都是 ALDI 独有供货商提供的，所以品牌跟其他超市会不同，不过质量有保证，物美价廉。更多介绍请看 [Wiki](http://zh.wikipedia.org/wiki/Aldi)。
+
+在亚琛 ALDI 位置一般都比较偏，建议先可以 google 一下再去。市中心只有一家 ALDI 在 Alter Posthof 那，MedienMarket 隔壁。离大学比较近的是 Süsterfeldstraße 63。
+
+###Lidl
+
+{width=20%}
+![](images/Lidl.png)
+
+[Lidl](http://www.lidl.de) 是也是一间德国的连锁超级市场，在全球拥有超过8000间分店，隶属Schwarz控股公司。Lidl 的东西也都很便宜，大高楼学生宿舍旁边的 Lidl 就深受大学生的喜爱，大部分学生闭着眼睛就知道要买的商品在哪。
+
+###Netto Marken-Discount
+
+{width=30%}
+![](images/Netto.png)
+
+[Netto Marken-Discount](www.netto-online.de)是德国第三大连锁超市，图书馆附近就有一家，自习累了可以去买点吃的喝的补给一下。
+
+###REWE
+
+{width=30%}
+![](images/REWE.png)
+
+[REWE](https://www.rewe.de)的店面装修的很好，干净整齐，但价格比前面三家偏贵，不过还是可以逛逛，水果蔬菜比较新鲜，有打折的话还是挺合适的。
+
+###Kaufland
+
+{width=20%}
+![](images/Kaufland.png)
+
+[Kaufland](http://www.kaufland.de)可以算作大型超市了，和 Lidl 一样，隶属Schwarz控股公司。里面商品很齐全，除了食物，还有日用品，文具，家用电器等，还可以买到排骨、龙骨头，而且特别便宜，这也是中国学生常去的原因之一。
+亚琛 Kaufland 地址为 Vaalser Straße 242，坐公交到 Kuckelkorn，再向西沿马路走300m就到了。超市里面没有购物篮，用购物车的话要先准备好50cent或1欧硬币，退车时是可以拿回来的。如果你忘带硬币可以到前台 Information 那里要一个免费的替代币。
+
+###Real
+
+{width=30%}
+![](images/Real.png)
+
+[Real](http://www.real.de)也是一个大型超市，比 Kaufland 还要大，里面的商品特别齐全，正如他们的口号：“Einmal hin, Alles drin”。有空可以去看看。地址为 Breslauer Straße 35，坐公交到 Dresdener Straße 下，然后根据路标提示走就可以了。
+
+###荷兰Vaals鱼市
+
+周二从上午10点到下午2点左右在Vaals有鱼市，感觉像是国内的菜市场，都很便宜，特别是水果蔬菜，买得你根本停不下来，不过不要买得过多，一是拎回家很累，二是短时间吃不完的话容易坏。当然还有一些海鲜，有鱼啊虾啊，螃蟹倒是很少见，还有一欧一个的大鱼头，买回家炖个汤什么的还是很划算的。
+
+有学生票的话可以坐公交到 Vaals Grenz 站下车，跟着一些车上推购物小车的人走就不会错，当然也可以问问其他人。大概地址是 Koningin Julianaplein 1, 6291 AP Vaals, Niederlande，到那就一定能看到啦。
+
+##Roermond
+
+{width=40%}
+![](images/Designer_Outlet_Roermond.jpg)
+
+[Roermond 打折村](http://www.mcarthurglen.com/nl/designer-outlet-roermond/cn/)是距离亚琛最近的大型打折村，里面有144个品牌商品，包含男装、女装、童装、配饰、家居用品和餐饮。具体品牌信息可以看官方网站。每年 Roermond 打折村还会有折上折活动，打折力度更大，还会有一些额外的打折券。作为学生去打折村最方便的办法就是在 CSuchen 上“求被捡”，也就是跟有车的学长一起去，摊个油费就好了，如果不怕折腾，可以考虑参考学长写的攻略：  
+<http://www.csuchen.de/bbs/viewthread.php?tid=385837>。
+
 
 ##网购
 
-amazon
+ 你可能没有时间去逛街淘一些东西，网购不仅便利而且相对便宜。这里有一个博文列举了一些在德国网购很有用的网站，不仅有购物网站还有一些能够可以给我们带来方便和实惠的网站，内容很丰富，有空可以仔细读读  
+ <http://blog.sina.com.cn/s/blog_65eafe210102ds55.html>。
+
+ 你也可以在新浪微博上关注 ____德国拜吧____ 和 ____德国败吧微博____ 这两个人的微博，基本上都是一些打折的信息。
+
+ 再推荐一个网站 ____德国打折网____ <http://www.dazhe.de>，它主要是为在德国生活、工作的中国人提供德国网上购物的攻略和指南，近期还将推出德国生活指南，如：在德国如何就医、买药? 日常生活中需要购买哪些保险? 怀孕期间需要的各种补助申请? 如何在德国注册结婚?

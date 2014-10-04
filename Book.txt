@@ -9,8 +9,8 @@
 1Moebel.txt
 1Bus_Bahn.txt
 1Fahrrad.txt
-1Handy_Wifi.txt
 1Internet.txt
+1Handy.txt
 1Tipps.txt
 1Cross_Message.txt
 1Gospel.txt
