@@ -3,20 +3,20 @@
 亚琛工大是德国首批 12 所笔记本大学中的第一所，无处不在的无线网可以让同学们抱着笔记本穿梭在大学课内课外。下面的介绍可以让新来的同学快速设置好手机，平板和笔记本。还有一些内容可以帮助同学们更好地利用学校的资源。
 
 ##开通密码
-第一步是要在学校开通你的帐号 (Freischaltung)。新生入学时会收到学校一封信，信内有开通帐号的必要信息，你的学号一般是名(Vorname)的首字母，姓(Nachname)的首字母，再加 6 位数字，例如一个叫张三的同学，他的学号大概是这个样子：sz123456，接下来看到的所有 sz123456 都代表你的学号。
+第一步是要在学校开通你的账号 (Freischaltung)。新生入学时会收到学校一封信，信内有开通账号的必要信息，你的学号一般是名(Vorname)的首字母，姓(Nachname)的首字母，再加 6 位数字，例如一个叫张三的同学，他的学号大概是这个样子：sz123456，接下来看到的所有 sz123456 都代表你的学号。
 
 打开这个页面就可以开始解锁了：<http://www.rwth-aachen.de/go>，
 
 Matriculation number: (输入你的学号)  
 Unlock code: (输入你的解锁码)  
 
-如果一切正确，进入网页后，就会有个向导，让你一步一步往下走，首先让你确认你会遵守使用协议，然后你可以选择 Email 地址，最后会得到用户名和密码，请详细记下所有重要信息，因为你再也不能来到这个页面了。有了这个帐号你就可以使用大学的各项服务了，例如 TIM, Email, Edurom, VPN, E-learning，CAMPUS, Hochleistungsrechnen 等等, 接下来会详细说明。
+如果一切正确，进入网页后，就会有个向导，让你一步一步往下走，首先让你确认你会遵守使用协议，然后你可以选择 Email 地址，最后会得到用户名和密码，请详细记下所有重要信息，因为你再也不能来到这个页面了。有了这个账号你就可以使用大学的各项服务了，例如 TIM, Email, Edurom, VPN, E-learning，CAMPUS, Hochleistungsrechnen 等等, 接下来会详细说明。
 
 
 ##TIM(Tivoli Identity Manager)
-TIM <https://tim.rz.rwth-aachen.de/enrole/>, 也就是大学的 Identity Managementsystem，在这可以管理你学校各种服务(Service)所需要的帐号。
+TIM <https://tim.rz.rwth-aachen.de/enrole/>, 也就是大学的 Identity Managementsystem，在这可以管理你学校各种服务(Service)所需要的账号。
 
-登录后，一些服务已经启用了，比如 Email，这些服务就可以修改密码，有些服务默认是不启用的，比如说大学的服务器集群服务，也就是所谓的 Hochleistungsrechnen，那就要登录后，在 “管理帐户” 标签下点击 “添加”，然后选择 **Hochleistungsrechnen RWTH Aachen** 。
+登录后，一些服务已经启用了，比如 Email，这些服务就可以修改密码，有些服务默认是不启用的，比如说大学的服务器集群服务，也就是所谓的 Hochleistungsrechnen，那就要登录后，在 “管理账户” 标签下点击 “添加”，然后选择 **Hochleistungsrechnen RWTH Aachen** 。
 
 ##Email
 网页版的 Email 登录地址是：<https://mail.rwth-aachen.de>，用户名要注意，虽然张三的邮件地址是 San.Zhang@rwth-aachen.de，但他的邮件登录用户名却是 sz123456@rwth-aachen.de，如果密码忘记了，可以去 TIM 修改。
@@ -38,9 +38,9 @@ Port: 587
 选择：Sichere Verbindung über TLS   
 
 ##Edurom
-学校的无线网 SSID 是 `eduroam`，是 `Education` 和 `Roam` 的拼装。什么是 eduroam 呢，看看这网页就知道了：<https://www.eduroam.org>，也就是说一个帐号可以在世界很多大学上网。如果有天你漫步在巴塞罗那，或者巴黎的某个大学校园，突然发现你的手机可以无线上网了，请不要惊讶。
+学校的无线网 SSID 是 `eduroam`，是 `Education` 和 `Roam` 的拼装。什么是 eduroam 呢，看看这网页就知道了：<https://www.eduroam.org>，也就是说一个账号可以在世界很多大学上网。如果有天你漫步在巴塞罗那，或者巴黎的某个大学校园，突然发现你的手机可以无线上网了，请不要惊讶。
 
-设置无线帐号不是很复杂，这个帮助页面里有手机和各个操作系统上网的教程：<https://doc.itc.rwth-aachen.de/display/WLAN/Anleitungen>，或者在浏览器输入这个短网址：<http://bit.ly/wlan-eduroam>
+设置无线账号不是很复杂，这个帮助页面里有手机和各个操作系统上网的教程：<https://doc.itc.rwth-aachen.de/display/WLAN/Anleitungen>，或者在浏览器输入这个短网址：<http://bit.ly/wlan-eduroam>
 
 虽然帮助文档写得很详细，但可能大家的电脑这时候还上不了网呢，我以 Windows 7 为例，说一下怎么连上 eduroam:
 
@@ -53,7 +53,7 @@ Port: 587
 - 从 `MoPS` 断开，连上 `eduroam`
 - 输入用户名(`sz123456@rwth-aachen.de`)和密码
 
-默认 eduroam 的帐号密码是激活的，不用在 TIM 专门开通，如果真遇到问题，还是可以去 TIM 重设一下密码。
+默认 eduroam 的账号密码是激活的，不用在 TIM 专门开通，如果真遇到问题，还是可以去 TIM 重设一下密码。
 
 ##VPN
 
