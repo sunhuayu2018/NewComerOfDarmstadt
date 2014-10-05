@@ -119,7 +119,7 @@ MSDNAA 也就是 MSDN Academic Alliance， 现在也叫做 DreamSpark，这是�
 
 HPC 是 `High Performance Computing` 的缩写，德语是 `Hochleistungsrechnen`，要用使用服务器集群首先要在 TIM 开通 `Hochleistungsrechnen RWTH Aachen` 服务。另外，要想使用服务器集群，你必需位于学校内网，如果不在内网，可以使用 VPN。
 
-一切就绪之后，打开 Windows 自带的`远程桌面`(Remote Desktop)软件，服务器名输入 `cluster-win.rz.rwth-aachen.de`，用户名输入 `WIN-HPC\sz123456`，连接就好了。连接的时候可能会要输入两次密码，这都是正常的，第一次登录可能会有点慢，因为要为你生成配置文件，请耐心等待。
+一切就绪之后，打开 Windows 自带的远程桌面(Remote Desktop)软件，服务器名输入 `cluster-win.rz.rwth-aachen.de`，用户名输入 `WIN-HPC\sz123456`。连接的时候可能会要输入两次密码，这都是正常的，第一次登录可能会有点慢，因为要为你生成配置文件，请耐心等待。
 
 更多信息可以访问：<https://doc.itc.rwth-aachen.de/display/WINC/Home>  
 
