@@ -21,9 +21,9 @@
 
 1. [http://www.wg-gesucht.de](http://www.wg-gesucht.de/wg-zimmer-in-Aachen.1.0.0.0.html): WG Gesucht 主要是 WG (Wohngemeinschaft) 的相关信息，也就是合租，通常很多学生喜欢选择合租，但合租可能会面临一些问题，比如共用一些生活用品，共用厨房厕所之类的，另外还要跟其它租户处好关系。一个双人或多人 WG 里面男女合租是很平常的情况。学生宿舍里也是随机分配的，没有特别把男女分开。
 
-1. [http://www.studenten-wg.de](http://www.studenten-wg.de/angebote_lesen.html?fuer=Zimmer%20in%20WG&stadt=Aachen): 同上，另一个找合租网站。
+1. [http://www.studenten-wg.de](http://bit.ly/Studenten-WG): 同上，另一个找合租网站。
 
-1. [http://aachen.studenten-wohnung.de](http://aachen.studenten-wohnung.de/suche.php?resubmit=submit&typeort=&art=egal&zeit=30&zimmerzahl=egal&kaltmietevon=0&kaltmietebis=&zwischenmiete=alle&iPerPage=10&search_order=datum+DESC&iPerPage=25): 这是个主要面向学生的租房网站。
+1. [http://aachen.studenten-wohnung.de](http://bit.ly/Studenten-Wohnung): 这是个主要面向学生的租房网站。
 
 1. <http://www.immobilienscout24.de>: 这应该算是德国最大的房屋类网站，从租房到卖房都有，在这贴出租信息是要花钱的，所以要找套间比较合适，如果几个同学找不到合适的房间，可以试一下租一个大的。
 
@@ -37,7 +37,7 @@
 I> ## Newton Appartment 联系方式  
 I> 地址：Kühlwetterstraße 8 52072 Aachen  
 I> 电话：+49 241 1686 755  
-I> Email：Info@Newton-Apartments.de  
+I> 电邮：Info@Newton-Apartments.de  
 
 ##最坏打算
 如果我找不到房子，便宜旅馆也住不到，落地那天怎么办？
