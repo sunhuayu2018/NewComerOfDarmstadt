@@ -1,8 +1,8 @@
 # 交通
 
 ## 初来时的交通
-- 如果您的飞机是降落在 ____法兰克福____ 机场，建议尽量买 ICE 票从 Frankfurt Flughafen 直接到 Aachen Hbf 站。由于每天经过 Aachen 的 ICE 列车较少，如果买不到的话，就先坐 ICE 到科隆主火车站（Köln Hbf），然后在那儿转慢车（Regional-Express）到 Aachen Hbf。在 Aachen Hbf 长期有等待的出租车，方便解决您带着大量行李和不熟悉 Aachen 住址的问题。特别需要提醒的是，科隆火车站偷窃情况比较严重，在您转车期间，一定要看好您的随身行李，尤其是在车站内的麦当劳，已发生多起中国人被偷的事件。
-- 如果您的飞机降落在 ____杜塞尔多夫____ 机场，您可以选择步行前往 Düsseldorf Flughafen Terminal, 在那儿乘坐 S11 到达杜塞尔多夫主火车站（Düsseldorf Hbf）,然后在那儿转慢车（Regional-Express）到 Aachen Hbf。或者您也可以选择乘坐 Sky Train 到 Düsseldorf Flughafen（和Düsseldorf Flughafen Terminal不是同一个地方），然后在那儿转慢车（Regional-Express）到 Aachen Hbf。特别需要提醒的是，请您事先向您购买机票的旅行社询问，您的机票是否包含上述几种交通方式的车票，如果没有，在您上车之前，都需要在站台处的售票机上购买车票。
+- 如果你的飞机是降落在 ____法兰克福____ 机场，建议尽量买 ICE 票从 Frankfurt Flughafen 直接到 Aachen Hbf 站。由于每天经过 Aachen 的 ICE 列车较少，如果买不到的话，就先坐 ICE 到科隆主火车站（Köln Hbf），然后在那儿转慢车（Regional-Express）到 Aachen Hbf。在 Aachen Hbf 长期有等待的出租车，方便解决你带着大量行李和不熟悉 Aachen 住址的问题。特别需要提醒的是，科隆火车站偷窃情况比较严重，在你转车期间，一定要看好你的随身行李，尤其是在车站内的麦当劳，已发生多起中国人被偷的事件。
+- 如果你的飞机降落在 ____杜塞尔多夫____ 机场，你可以选择步行前往 Düsseldorf Flughafen Terminal, 在那儿乘坐 S11 到达杜塞尔多夫主火车站（Düsseldorf Hbf）,然后在那儿转慢车（Regional-Express）到 Aachen Hbf。或者你也可以选择乘坐 Sky Train 到 Düsseldorf Flughafen（和Düsseldorf Flughafen Terminal不是同一个地方），然后在那儿转慢车（Regional-Express）到 Aachen Hbf。特别需要提醒的是，请你事先向你购买机票的旅行社询问，你的机票是否包含上述几种交通方式的车票，如果没有，在你上车之前，都需要在站台处的售票机上购买车票。
 
 ## Aachen 市内交通
 
@@ -30,7 +30,7 @@
 需要注意: 
 1. 必须至少提前3天预订，最早可提前92天预订，否则只有原价。越早订特价票越多；  
 1. 必须指定车次；  
-1. 订票过程中两次提到银行卡，第一次是 Identifizierungskarte，这张是用于乘车时身份验证，必须是乘车人的名字并且要随身携带。第二次是 Zahlung，这时可以用任意卡支付。假如您自己没有信用卡或其他可以支付的网银，可以在第一步使用自己的 Mastero 卡（比如德意志银行的EC卡），第二步借用家人朋友的信用卡。  
+1. 订票过程中两次提到银行卡，第一次是 Identifizierungskarte，这张是用于乘车时身份验证，必须是乘车人的名字并且要随身携带。第二次是 Zahlung，这时可以用任意卡支付。假如你自己没有信用卡或其他可以支付的网银，可以在第一步使用自己的 Mastero 卡（比如德意志银行的EC卡），第二步借用家人朋友的信用卡。  
 
 - ____周末票 (Schönes-Wochenende-Ticket)____   
 票价44欧元，适用于周六或周日的其中一天。该票供5个人一起使用，持有者（票上需至少签一人的名字）可以在这一天内搭乘德国境内任何区域的短途火车(2等车厢)。周末票只能用来乘坐慢车，当然还可以乘坐市内交通，比如说公交车和有轨电车(S-Bahn, U-Bahn)，如果坐那些跨国界的车，可以拿票在上车的时候问一下司机。周末票不必提前订，在站台上DB的机器上买即可。

@@ -13,8 +13,8 @@ Unlock code: (输入你的解锁码)
 如果一切正确，进入网页后，就会有个向导，让你一步一步往下走，首先让你确认你会遵守使用协议，然后你可以选择 Email 地址，最后会得到用户名和密码，请详细记下所有重要信息，因为你再也不能来到这个页面了。有了这个账号你就可以使用大学的各项服务了，例如 TIM, Email, Edurom, VPN, E-learning，CAMPUS, Hochleistungsrechnen 等等, 接下来会详细说明。
 
 
-##TIM(Tivoli Identity Manager)
-TIM <https://tim.rz.rwth-aachen.de/enrole/>, 也就是大学的 Identity Managementsystem，在这可以管理你学校各种服务(Service)所需要的账号。
+##TIM
+[TIM](https://tim.rz.rwth-aachen.de/enrole/)(Tivoli Identity Manager), 也就是大学的 Identity Managementsystem，在这可以管理你学校各种服务(Service)所需要的账号。
 
 登录后，一些服务已经启用了，比如 Email，这些服务就可以修改密码，有些服务默认是不启用的，比如说大学的服务器集群服务，也就是所谓的 Hochleistungsrechnen，那就要登录后，在 “管理账户” 标签下点击 “添加”，然后选择 **Hochleistungsrechnen RWTH Aachen** 。
 
