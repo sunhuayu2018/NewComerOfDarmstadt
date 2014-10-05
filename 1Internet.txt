@@ -10,7 +10,7 @@
 Matriculation number: (输入你的学号)  
 Unlock code: (输入你的解锁码)  
 
-如果一切正确，进入网页后，就会有个向导，让你一步下往下走，首先让你确认你会遵守使用协议，然后你可以选择 Email 地址，最后会得到用户名和密码，请详细记下所有重要信息，因为你再也不能来到这个页面了。有了这个帐号你就可以使用大学的各项服务了，例如 TIM, Email, Edurom, VPN, E-learning，CAMPUS, Hochleistungsrechnen 等等, 接下来会详细说明。
+如果一切正确，进入网页后，就会有个向导，让你一步一步往下走，首先让你确认你会遵守使用协议，然后你可以选择 Email 地址，最后会得到用户名和密码，请详细记下所有重要信息，因为你再也不能来到这个页面了。有了这个帐号你就可以使用大学的各项服务了，例如 TIM, Email, Edurom, VPN, E-learning，CAMPUS, Hochleistungsrechnen 等等, 接下来会详细说明。
 
 
 ##TIM(Tivoli Identity Manager)
@@ -38,7 +38,7 @@ Port: 587
 选择：Sichere Verbindung über TLS   
 
 ##Edurom
-学校的无线网 SSID 是 `eduroam`，是 `Education` 和 `Roam` 的拼装。什么是 eduroam 呢，看看这网页就知道了：<https://www.eduroam.org>，也就是说一个帐号可以在世界很多大学上网。如果有天你漫步在巴萨罗纳，或者巴黎的某个大学校园，突然发现你的手机可以无线上网了，请不要惊讶。
+学校的无线网 SSID 是 `eduroam`，是 `Education` 和 `Roam` 的拼装。什么是 eduroam 呢，看看这网页就知道了：<https://www.eduroam.org>，也就是说一个帐号可以在世界很多大学上网。如果有天你漫步在巴塞罗那，或者巴黎的某个大学校园，突然发现你的手机可以无线上网了，请不要惊讶。
 
 设置无线帐号不是很复杂，这个帮助页面里有手机和各个操作系统上网的教程：<https://doc.itc.rwth-aachen.de/display/WLAN/Anleitungen>，或者在浏览器输入这个短网址：<http://bit.ly/wlan-eduroam>
 
@@ -57,11 +57,11 @@ Port: 587
 
 ##VPN
 
-利用 `VPN` (`Virtual Private Network`) 可以通过互联网这类公用网络传递内网信息，通过端到端的加密通道协议保证通信安全。在国内很多人用 VPN 来科学上网，在 RWTH 主要是方便大家不在学校网络的时候，可以拔号进入学校内网，以使用学校的一些网络服务，因为某些服务是不对外开放的。
+利用 `VPN` (`Virtual Private Network`) 可以通过互联网这类公用网络传递内网信息，通过端到端的加密通道协议保证通信安全。在国内很多人用 VPN 来科学上网，在 RWTH 主要是方便大家不在学校网络的时候，可以拨号进入学校内网，以使用学校的一些网络服务，因为某些服务是不对外开放的。
 
 这个页面有详细的安装说明：<https://doc.itc.rwth-aachen.de/display/VPN/Anleitungen>，或者在浏览器输入这个短网址：<http://bit.ly/rwth-vpn>
 
-如果你在学校内网或连上了 `eduroam`，可以在这个页面下载 `VPN` 拔号软件：<http://netstatus.rz.rwth-aachen.de/vpnfiles/>，注意第一行是 `Profile`，这是很重要的设置文件，一定要下载，安装说明中会用到。一般使用 `Full Tunnel` 就可以了。
+如果你在学校内网或连上了 `eduroam`，可以在这个页面下载 `VPN` 拨号软件：<http://netstatus.rz.rwth-aachen.de/vpnfiles/>，注意第一行是 `Profile`，这是很重要的设置文件，一定要下载，安装说明中会用到。一般使用 `Full Tunnel` 就可以了。
 
 
 ##L2P
@@ -93,7 +93,7 @@ MSDNAA 也就是 MSDN Academic Alliance， 现在也叫做 DreamSpark，这是�
 
 还有一些软件要在 RWTH 的服务器集群才能用，这里有可使用软件的列表：<https://doc.itc.rwth-aachen.de/display/SW/Softwareprodukte>， 或者在浏览器输入这个短网址：<http://bit.ly/rwth-softwares>
 
-另外值得一提的是 Sophos 杀毒软件也是免费的，支持 Windows 和 Mac OS 操作系统，不过更新病毒库要 RWTH 内网 IP，如果在外面租房的同学，可以先拔 VPN。
+另外值得一提的是 Sophos 杀毒软件也是免费的，支持 Windows 和 Mac OS 操作系统，不过更新病毒库要 RWTH 内网 IP，如果在外面租房的同学，可以先拨 VPN。
 
 如果你想买一些便宜的正版软件，RWTH 有个软件商店：<https://rwth.asknet.de>，请不要直接打开这个网站，要从 Campus Office 左上角的链接进入。
 
