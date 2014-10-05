@@ -98,7 +98,7 @@ MSDNAA 也就是 MSDN Academic Alliance， 现在也叫做 DreamSpark，这是�
 如果你想买一些便宜的正版软件，RWTH 有个软件商店：<https://rwth.asknet.de>，请不要直接打开这个网站，要从 Campus Office 左上角的链接进入。
 
 
-##买 Mac 电脑
+##买苹果电脑
 
 打开这个 RWTH 的链接就可以用学生价格购买苹果电脑: <http://store.apple.com/de_aoc_122179>
 
