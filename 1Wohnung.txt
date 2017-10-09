@@ -3,7 +3,7 @@
 ##注意事项
 租房子一定要注意几个要点，每个重要信息最好都要问到：  
 
-1. ____租金____。租金分为几部分。一部分就是房屋本身的租金，也就是所谓的冷租(Kaltmiete), 除此之外，还有杂费(Nebenkosten)，一般指污水处理，垃圾处理之类的，有些情况下可能还包含暖气费和电费。一般情况下，电费应该是不包含在 Nebenkosten 里面的。所以一定要问清楚租金的组成成份。
+1. ____租金____。租金分为几部分。一部分就是房屋本身的租金，也就是所谓的冷租(Kaltmiete), 除此之外，还有杂费(Nebenkosten)，一般指污水处理，垃圾处理之类的，有些情况下可能还包含暖气费和电费。一般情况下，电费应该是不包含在 Nebenkosten 里面的，所以一定要问清楚租金的组成成份。另外广播电视费（Rundfunkbeitrag 17.5 欧）是按户收，如果是 WG 的形式，只有一个厨房，那所有租户可以平摊这个费用。
 
 1. ____押金____。一般租房都要交2个月到3个月的押金，如果太多就要问清楚原因。租户搬出去的时候会根据交房时房屋的状况，全额或部分退还押金。举例来说，如果租户和房东签订的合同里提到租户搬离时要重新粉刷墙壁，但租户搬走的时候没有刷墙，房东就会扣除一部分押金。当然，属于房东的物件损坏或是没有做好清洁工作，也会扣除一部分押金。
 
@@ -32,7 +32,7 @@
 1. [CSuchen.de 亚琛版块](http://www.csuchen.de/bbs/forumdisplay.php?fid=24): 亚琛当地学生论坛。要防 QQ 骗子，但如果找到合适的，就会比较简单，首先语言不是问题，另外也好商量，大家在国外，还是比较照顾同胞的。
 
 ##学生宿舍
-- 在线申请大学学生宿舍：[http://www.wohnheime-aachen.de](http://www.wohnheime.rwth-aachen.de/bewerbung.html)。申请后一般不会直接给你宿舍，因为等学生宿舍的人比较多，每个学生宿舍都会有一份等待列表(Wartelist)，如果申请之后，就要经常写邮件打电话问各个宿舍的负责人，在宿舍的网站上都会有联系方式的。更多信息请看这里: [www.studentenwerk-aachen.de](http://www.studentenwerk-aachen.de/wohnen/a_bis_z.asp)
+- 在线申请大学学生宿舍：[Bewerberportal](https://bewerberportal.stw.rwth-aachen.de/app.php/de/)。申请后一般不会直接给你宿舍，因为等学生宿舍的人比较多，每个学生宿舍都会有一份等待列表(Wartelist)，如果申请之后，就要经常写邮件打电话问各个宿舍的负责人，在宿舍的网站上都会有联系方式的。更多信息请看这里: [www.studentenwerk-aachen.de](http://www.studentenwerk-aachen.de/de/wohnen/wohnanlagen.html)
 
 - <http://www.newton-apartments.de> 全是单个房间的宿舍楼，是私人的，与学校无关，在 Aachen 的同学基本都知道那里。房子比较贵，楼管不是很友善，扣押金的事也常发生，如果不是找不到房子，一般不要考虑这里。
  

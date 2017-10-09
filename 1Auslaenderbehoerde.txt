@@ -18,13 +18,10 @@ T> 52060 Aachen
 德语说明：<http://bit.ly/WohnsitzAnmelden>  
 德语和英语说明：<http://www.rwth-aachen.de/go/id/bqee>
 
-Aachen 的三个 BürgerÄmter 地址是：
+Aachen 的两个 Bürgerämter 地址是：
 
 I> #### Bürgerservice Bahnhofplatz  
 I> 地址：Hackländerstraße 1, 52064 Aachen  
-
-I> #### Bürgerservice Wespienstraße  
-I> 地址：Wespienstraße 8-10, 52062 Aachen  
 
 I> #### Bürgerservice Katschhof  
 I> 地址：Johannes-Paul-II.-Straße 1 52062 Aachen  
@@ -66,17 +63,15 @@ I> Email：info.auslaendische.studenten@staedteregion-aachen.de
 1. 在读证明: 包含专业，学期数等信息的 Studiennachweis，可以登录 [Campus Office](https://www.campus.rwth-aachen.de/office/) 选择Studierendensekretariat -> Bescheinigung -> 打印
 1. 保险证明: Den Nachweis über die Krankenversicherung
 1. 财力证明: 存款每月至少可以保证能支出 659 欧，或者让国内家人开经济担保。
-1. 延签费用：第一次延签费用是 130 欧,以后每次延签 80 欧。
+1. 延签费用：第一次延签费用是 110 欧,以后每次延签 80 欧。
 
 
 ##延签照片
 
 相片的具体要求[在这个网页](https://www.bundesdruckerei.de/de/1345-service)写得很清楚，点击网页下方的链接[Passbildschablone Erwachsene](http://bit.ly/passbild)会打开一个 PDF 文件，里面有详细的说明，最大的要求就是相片的长和宽分别为 45mm 和 35 mm。另外要特别注意眼睛的位置，一般来说，头部比例要大，脖子以下只漏出衣领就可以了。
 
-如果很急用的话，在主火车站 (Hauptbahnhof) 通往各站台的走廊里就有那种自动拍照的机器，如果对相片的要求比较高可以去专业照相馆。其实还有很省钱的办法，只要在光线好的时候，站在白墙前，让别人给自己照张相片，然后上传到这个网站 <https://www.persofoto.de/upload/> 处理一下就好了。网站上可以调整位置，缩放图片，只要跟网站设定的框框的位置差不多重合，那相片一定符合要求。
+如果很急用的话，在主火车站 (Hauptbahnhof) 通往各站台的走廊里就有那种自动拍照的机器，如果对相片的要求比较高可以去专业照相馆。其实还有很省钱的办法，只要在光线好的时候，站在白墙前，离墙一米远，防止墙上有阴影，让别人给自己照张相片，然后上传到这个网站 <https://www.persofoto.de/upload/> 处理一下就好了。网站上可以调整位置，缩放图片，只要跟网站设定的框框的位置差不多重合，那相片一定符合要求。
 
 ![处理相片的网站](images/Passbild.jpg)
 
-相片处理好之后下载到电脑，然后打开 Word, 设置页面格式为 4 x 6，也就是一张相纸的大小 (102mm x 152mm), 接下来把图片插入文档，设置每张图片的大小为 45mm x 35mm，这样一张相纸可以排六张延签照片，最后保存为 JPG 格式。
-
-将图片拷到 U 盘，然后在 [dm 商店](http://www.dm.de)的相片打印机上就可以打印了，一张相纸大概 25 Cent。市中心的几家 DM 店地址：Ursulinerstraße 7-9， Großkölnstraße 60， Adalbertstraße 80-82。
+相片处理好之后下载到电脑，然后将图片拷到 U 盘，在 [dm 商店](http://www.dm.de)的相片打印机上就可以打印了，一张相纸大概 25 Cent，注意要选择护照相片格式，一张相纸可以打印 8 张。市中心的几家 DM 店地址：Ursulinerstraße 7-9， Großkölnstraße 60， Adalbertstraße 80-82。

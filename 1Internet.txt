@@ -3,23 +3,25 @@
 亚琛工大是德国首批 12 所笔记本大学中的第一所，无处不在的无线网可以让同学们抱着笔记本穿梭在大学课内课外。下面的介绍可以让新来的同学快速设置好手机，平板和笔记本。还有一些内容可以帮助同学们更好地利用学校的资源。
 
 ##开通密码
-第一步是要在学校开通你的账号 (Freischaltung)。新生入学时会收到学校一封信，信内有开通账号的必要信息，你的学号一般是名(Vorname)的首字母，姓(Nachname)的首字母，再加 6 位数字，例如一个叫张三的同学，他的学号大概是这个样子：sz123456，接下来看到的所有 sz123456 都代表你的学号。
+第一步是要在学校开通你的账号。新生入学时会从到学校收到一张转帐单，转帐单上有一个 Coupon-Code，用这个 Code 就可以在线注册一个大学的账号，同时还可以得到一个学校的电子邮箱。
 
-打开这个页面就可以开始解锁了：<http://www.rwth-aachen.de/go>，
+打开这个页面就可以开始了：<https://idm.rwth-aachen.de/connectMe/>
 
-Matriculation number: (输入你的学号)  
-Unlock code: (输入你的解锁码)  
+在这个页面上也有一个帮助链接，如果有疑问可以点开看看。
 
-如果一切正确，进入网页后，就会有个向导，让你一步一步往下走，首先让你确认你会遵守使用协议，然后你可以选择 Email 地址，最后会得到用户名和密码，请详细记下所有重要信息，因为你再也不能来到这个页面了。有了这个账号你就可以使用大学的各项服务了，例如 TIM, Email, Edurom, VPN, E-learning，CAMPUS, Hochleistungsrechnen 等等, 接下来会详细说明。
+如果一切正确，进入网页后，就会有个向导，让你一步一步往下走，包括验证私人邮件，选择大学 Email 地址等等，最后会得到用户名和密码，请详细记下所有重要信息，因为你再也不能来到这个页面了。有了这个账号你就可以使用大学的各项服务了，例如 TIM, Email, Edurom, VPN, E-learning，CAMPUS, Hochleistungsrechnen 等等, 接下来会详细说明。
+
+其中用户名也是你的学号（Matrikelnummer），一般是名(Vorname)的首字母，姓(Nachname)的首字母，再加 6 位数字，例如一个叫张三的同学，他的学号大概是这个样子：sz123456，接下来在本手册中看到的所有 sz123456 都代表你的学号。
 
 
-##TIM
-[TIM](https://tim.rz.rwth-aachen.de/enrole/)(Tivoli Identity Manager), 也就是大学的 Identity Managementsystem，在这可以管理你学校各种服务(Service)所需要的账号。
 
-登录后，一些服务已经启用了，比如 Email，这些服务就可以修改密码，有些服务默认是不启用的，比如说大学的服务器集群服务，也就是所谓的 Hochleistungsrechnen，那就要登录后，在 “管理账户” 标签下点击 “添加”，然后选择 **Hochleistungsrechnen RWTH Aachen** 。
+##Selfservice
+[Selfservice](https://www.rwth-aachen.de/selfservice), 也就是个人信息的集中管理处，在这可以更改你的个人信息，比如住址，电话等等，也可以在 Accounts und Passwörter 管理你学校各种服务(Service)所需要的账号。
+
+其中一些服务已经启用了，比如 Email，这些服务就可以修改密码，有些服务默认是不启用的，比如说大学的服务器集群服务，也就是所谓的 Hochleistungsrechnen，那就要在 “Account anlegen” 标签下选择 **Hochleistungsrechnen RWTH Aachen** ， 点击 “ Weiter ” 添加。
 
 ##Email
-网页版的 Email 登录地址是：<https://mail.rwth-aachen.de>，用户名要注意，虽然张三的邮件地址是 San.Zhang@rwth-aachen.de，但他的邮件登录用户名却是 sz123456@rwth-aachen.de，如果密码忘记了，可以去 TIM 修改。
+网页版的 Email 登录地址是：<https://mail.rwth-aachen.de>，用户名要注意，虽然张三的邮件地址是 San.Zhang@rwth-aachen.de，但他的邮件登录用户名却是 sz123456@rwth-aachen.de，如果密码忘记了，可以去 Selfservice 修改。
 
 我们现在都有智能手机和笔记本电脑，如果想用手机或者邮件程序收邮件，那可以参考 RWTH 详细的帮助信息，图文并茂，依葫芦画瓢就一定能成功。帮助页面原始链接：
 <https://doc.itc.rwth-aachen.de/display/EML/Einrichtung+E-Mail-Client>，或者在浏览器输入这个短网址：<http://bit.ly/email-client>。
@@ -46,14 +48,14 @@ Port: 587
 
 - 先在大学连上 `SSID` 为 `MoPS` 的无线网，虽然不用密码，但打不开几个页面
 - 下载三个个证书：  
-  <https://pki.pca.dfn.de/rwth-ca/pub/cacert/rootcert.crt>  
-  <https://pki.pca.dfn.de/rwth-ca/pub/cacert/intermediatecacert.crt>  
-  <https://pki.pca.dfn.de/rwth-ca/pub/cacert/cacert.crt>  
+  [rootcert.crt](https://pki.pca.dfn.de/rwth-ca/pub/cacert/rootcert.crt)
+  [intermediatecacert.crt](https://pki.pca.dfn.de/rwth-ca/pub/cacert/intermediatecacert.crt)
+  [cacert.crt](https://pki.pca.dfn.de/rwth-ca/pub/cacert/cacert.crt)
 - 双击打开证书，点击 “安装证书”
 - 从 `MoPS` 断开，连上 `eduroam`
 - 输入用户名(`sz123456@rwth-aachen.de`)和密码
 
-默认 eduroam 的账号密码是激活的，不用在 TIM 专门开通，如果真遇到问题，还是可以去 TIM 重设一下密码。
+默认 eduroam 的账号密码是激活的，不用在 Selfservice 专门开通，如果真遇到问题，还是可以去 Selfservice 重设一下密码。
 
 ##VPN
 
@@ -76,8 +78,6 @@ Port: 587
 这里会有课程安排，点击学期，专业，就可以看到当下这个学期会开哪些课，什么时候上课，考试是哪天。选好的课可以加入日历(Kalendar)，这样在日历会一目了然，防止让两门课的时间有重叠。
 
 另外，这里可以查到已经登记了要考试的课程，还可以下载以往的成绩单，下载之前，可以选择不出现那些挂科的成绩，只出现最后补考的成绩，这个功能对受过打击的同学来说实在是太贴心了。
-
-除此之外，搬家后要改地址，一种可能是直接去 Super C，另一种方法就是直接登录 Campus Office 修改，当然后者方便快捷。
 
 更多的功能大家登录一下就清楚了，接下来还会着重介绍 MSDNAA 和一些其它信息。
 
@@ -108,32 +108,13 @@ MSDNAA 也就是 MSDN Academic Alliance， 现在也叫做 DreamSpark，这是�
 
 ##服务器集群
   
-前面已经提到，有很多昂贵的正版软件，学校不可能让学生人手一份，所以学校提供了一个服务器集群(Compute Cluster)。服务器集群由多台服务器组成，但我们用远程登录的方式登录之后，感觉就在使用一台普通电脑。现在服役的 Windows cluster 用任务管理器看到的配置如下：
+服务器集群 (Compute Cluster) 由多台服务器组成，最高配置可达 64核 CPU，256GB 内存。2016 年以前，学校提供了 Windows 和 Linux 的集群服务器供大家使用，但现在只提供 Linux 版本了。原来的 Windows 服务器上有很多实用软件，比如Abaqus， ANSYS， Maple 以及 Office 等，现在在 Linux 上学生能用又比较实用的就只剩下 MATLAB 了。如果你是读博或在大学工作，还可以有更多软件可用，比如 Abaqus, Maple, Mathematica, STAR-CD 等。如果你有什么计算任务丢上去算一算也是很省心的。
 
-- CPU 160核  
-- 内存 524GB  
-- 网络 1Gbps  
-- 可用硬盘：   
-  Home: H:盘 50G，私人硬盘，不会被删除  
-  Work: W:盘 50G，公共空间，如果空间不够会被清理  
+HPC 是 `High Performance Computing` 的缩写，德语是 `Hochleistungsrechnen`，要用使用服务器集群首先要在 Selfservice 开通 `Hochleistungsrechnen RWTH Aachen` 服务。另外，要想使用服务器集群，你必需位于学校内网，如果不在内网，可以使用 VPN。
 
-HPC 是 `High Performance Computing` 的缩写，德语是 `Hochleistungsrechnen`，要用使用服务器集群首先要在 TIM 开通 `Hochleistungsrechnen RWTH Aachen` 服务。另外，要想使用服务器集群，你必需位于学校内网，如果不在内网，可以使用 VPN。
+一切就绪之后，可以使用 SSH　或 FastX 等客户端登入服务器，个人数据在服务器上有两个地方可以存储：
 
-一切就绪之后，打开 Windows 自带的远程桌面(Remote Desktop)软件，服务器名输入 `cluster-win.rz.rwth-aachen.de`，用户名输入 `WIN-HPC\sz123456`。连接的时候可能会要输入两次密码，这都是正常的，第一次登录可能会有点慢，因为要为你生成配置文件，请耐心等待。
+/home/<username> 150G,私人空间,不会被删除  
+/work/<username> 250G,公共空间,如果空间不够会被清理  
 
-更多信息可以访问：<https://doc.itc.rwth-aachen.de/display/WINC/Home>  
-
-下面是部分软件列表：
-
-- Abaqus  
-- ANSYS  
-- Embarcadero RAD Studio  
-- Maple  
-- Matlab  
-- Office  
-- Origin  
-- MS Visual Studio  
-- Mathematica 
-
-这个介绍服务器集群的文档有点老，如果有兴趣可以看看，里面还有介绍 Linux 集群的信息：<https://doc.itc.rwth-aachen.de/download/attachments/8750207/_p1_slides.pdf>
-
+更多信息可以访问：<https://doc.itc.rwth-aachen.de/display/CC/Home> 
