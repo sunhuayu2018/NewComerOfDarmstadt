@@ -1,10 +1,14 @@
-#落地延签
+﻿#落地延签
 
 ## 落户
 
-来到 Aachen 的第一个星期内，就需要到居民登记处去办理落户(Anmelden)手续。登记时，政府会给我们这些新来的人送些小礼物。比如优惠券，地图，城市指南之类的。
+来到 Aachen 的两个星期内，就需要到居民登记处（Bürgeramt）去办理落户(Anmelden)手续。登记时，政府会给我们这些新来的人送些小礼物。比如优惠券，地图，城市指南之类的。
 
-落户原来要求有效的租房合同，现在好像只要提供一个住址也行，所以有暂住的住址就可以去尝试落户了，不过有租房合同最好还是带上。拿着落户证明(Meldebescheinigung)就可以去银行激活账户，取钱出来用了。银行的账号密码资料的都会寄到落户地址。如果你想让别人收信，注意下面的 c/o 的写法，能安全收取即可。
+落户需要带的资料有：
+1. 护照等个人证件；
+2. 租房合同并房东确认表格（[Wohnungsgebersbestätigung](http://www.aachen.de/BIS/FO/2016-11-08_Wohnungsgeberbestätigung.pdf)）。
+
+拿着落户证明(Meldebescheinigung)就可以去银行激活账户，取钱出来用了。银行的账号密码资料的都会寄到落户地址。如果你想让别人收信，注意下面的 c/o 的写法，能安全收取即可。
 
 T> ## 让别人帮你收信  
 T> c/o 是care of 的缩写。下面这样写的意思是请 李四 为 张三 收信，李四住在 Bahnhofstraße 1。  
@@ -15,45 +19,73 @@ T> 52060 Aachen
 
 搬到稳定的住处后，可以前去 Bürgeramt 改住址，然后去银行也改掉。当然，其他的如保险手机合同也要发信去更改。
 
-德语说明：<http://bit.ly/WohnsitzAnmelden>  
+德语说明：<http://bit.ly/Wohnsitz_anmelden>  
 德语和英语说明：<http://www.rwth-aachen.de/go/id/bqee>
 
 Aachen 的两个 Bürgerämter 地址是：
 
-I> #### Bürgerservice Bahnhofplatz  
-I> 地址：Hackländerstraße 1, 52064 Aachen  
+I> #### Bürgerservice Bahnhofplatz  I> 地址：Hackländerstraße 1, 52064 Aachen  
 
 I> #### Bürgerservice Katschhof  
 I> 地址：Johannes-Paul-II.-Straße 1 52062 Aachen  
 
-I> ### 办公时间  
-I> `Mo. 08:00 - 16:00`  
+I> ### 办公时间  I> `Mo. 08:00 - 16:00`  
 I> `Di. 08:00 - 12:30`  
-I> `Mi. 08:00 - 18:00`  
+I> `Mi. 08:00 - 16:00`  
 I> `Do. 08:00 - 12:30`  
 I> `Fr. 08:00 - 12:30`  
 
-## 延签地点
+提供额外预约Bürgerservice的时间：
 
-如果你还不是RWTH的学生，比如说你还在学语言, 那延签是在火车站附近那个办理落户手续的地方, 在二楼，要提前预约。
+I> `Di.  13:00 - 15:00`  
+I> `Mi. 08:00 - 12:00 + 16:00 - 18:00`  
+I> `Do. 13:00 - 15:00`  
+I> `Sa. 09:00 - 13:00 仅每月第一个星期六`  
 
-如果你已经是 RWTH 或 FH 的学生，那延签地点就在传说中著名的 Super C 办公大楼。
+在这个网址可以看到目前排到的号码和大概的等待时间：  
+<http://bit.ly/a-Aufruf>
 
-I> #### Außenstelle an der RWTH     
+在这个网址可以预约：  
+<http://bit.ly/termin-aachen>
+
+## 延签
+
+如果你不是RWTH的学生，比如说你还在学语言，是FH或者Musikhochschule的学生，那延签是在火车站附近那个办理落户手续的地方（Hackländerstraße 1, 52064 Aachen)
+
+延签需要提前预约，可以到二楼（2. OG）左手边的 Infostelle，拿号排队预约延签的时间，也可以发邮件或者打电话预约。
+
+I> 地址:  
+I>     Infostelle Ausländeramt   
+I>     Hackländerstraße 1  
+I>     52064 Aachen  
+I> 电话: +49 241 5198-5600  
+I> 传真: +49 241 5198 83306  
+I> 电邮: auslaenderamt@staedteregion-aachen.de 
+
+I> 时间：  
+I>    `Mo. 08:00 - 15:00`  
+I>    `Di. 08:00 - 15:00`  
+I>    `Mi. 08:00 - 16:45`  
+I>    `Do. 08:00 - 13:00`  
+I>    `Fr. 08:00 - 12:00`  
+
+如果你是RWTH的学生，那延签的地点就在Super C办公大楼的四楼（4. OG）。不需要预约，在门口拿号码排队等就可以。
+
+I> #### Außenstelle des Ausländeramtes an der RWTH Aachen   
 I> 地址：Templergraben 57  
 I> 房间：421, 422  
 I> 电话：  
-I>      `+49 241 5198 3367`  
-I>      `+49 241 5198 3368`   
-I>      `+49 241 5198 3369`   
+I>      `+49 241 8090 820`  
+I>      `+49 241 8090 821`   
+I>      `+49 241 8090 822`   
 I> 时间：  
 I>      `Mo. 8:00 - 12:15`   
 I>      `Di. 8:00 - 12:15`   
 I>      `Mi. 8:00 - 12:15, 14:00-16:45`  
 I>      `Do. 不办公`  
 I>      `Fr. 8:00-12:00`  
-I> Email：info.auslaendische.studenten@staedteregion-aachen.de  
-    
+I> 电邮: info.auslaendische.studenten@staedteregion-aachen.de  
+
 ## 延签清单
 
 一般来说落户一到两天后，你的信息就会在外管局了，在这之后就可以去延签了，这个网页 <http://www.rwth-aachen.de/go/id/bpte> 是大学网站上给出的说明。一般来说，去延签要带上这些东西：
@@ -62,9 +94,9 @@ I> Email：info.auslaendische.studenten@staedteregion-aachen.de
 1. 延签照片: 后面一节会有详细说明
 1. 在读证明: 包含专业，学期数等信息的 Studiennachweis，可以登录 [Campus Office](https://www.campus.rwth-aachen.de/office/) 选择Studierendensekretariat -> Bescheinigung -> 打印
 1. 保险证明: Den Nachweis über die Krankenversicherung
+ (保险卡)
 1. 财力证明: 存款每月至少可以保证能支出 659 欧，或者让国内家人开经济担保。
-1. 延签费用：第一次延签费用是 110 欧,以后每次延签 80 欧。
-
+1. 延签费用：第一次延签费用是 100 欧,以后每次根据延签时间是93-96欧。
 
 ##延签照片
 

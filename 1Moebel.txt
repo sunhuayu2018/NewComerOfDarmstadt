@@ -1,4 +1,4 @@
-#家具及家电
+﻿#家具及家电
 
 ##购买新家具
 
@@ -12,7 +12,7 @@
 
 [http://www.ikea.de](http://www.ikea.com/ms/de_DE/campaigns/IKEA_Standorte.html)  
 
-在去IKEA之前，为了节省时间，也可以先在网站上挑好产品，记下号码，到那里就可以直接按照号码拿货了。也可以选择网上购买，需另付运费(起价29欧)，就可以送货到你家。但是这个价格只是送到你楼下的价格，如果需要送上楼，或者需要安装，则需要付附加费。
+在去IKEA之前，为了节省时间，也可以先在网站上挑好产品，记下号码，到那里就可以直接按照号码拿货了。也可以选择网上购买，需另付运费(起价25欧)，就可以送货到你家。但是这个价格只是送到你楼下的价格，如果需要送上楼，或者需要安装，则需要付附加费。
 
 ###Poco
 
@@ -20,7 +20,7 @@
 
 ##购买新家电
 
-Aachen市内有Mediamarkt和Saturn两家家电城。Mediamarkt 在 Altposthof 那里。Saturn 在市中心步行街的Galeria Kauhof 后面。
+Aachen市内有Mediamarkt和Saturn两家家电城。Mediamarkt 在 Altposthof 那里。Saturn 在市中心步行街的Aquis Plaza的二楼。
 
 I> #### Mediamarkt   
 I> 地址：Franzstraße 6, 52064 Aachen   
@@ -44,7 +44,8 @@ I> 网址：[http://www.saturn.de](http://bit.ly/SATURN-Aachen)
 
 如果是购买电脑，手机等电子产品，也可以跟下面的网站比一下价：
 
-<http://www.notebooksbilliger.de>
+<http://www.notebooksbilliger.de>  
+<http://www.campuspoint.de>
 
 
 ##二手家具及电器
@@ -53,7 +54,7 @@ I> 网址：[http://www.saturn.de](http://bit.ly/SATURN-Aachen)
 
 1. Kalaydo 里的小广告区可以分离出只在 Aachen 的卖家: [http://www.kalaydo.de/kleinanzeigen](http://bit.ly/Kalaydo-Aachen)
 
-1. CSuchen 二手市场也可以淘到一些 Aachen 中国人的二手家具和电器: [http://www.csuchen.de](http://www.csuchen.de/bbs/forumdisplay.php?fid=24)。不过要小心骗子。如果卖家让你去他的 QQ 空间看相片，还要输入 QQ 号和密码登录的，基本上都是想盗你的 QQ 号的。
+1. CSuchen 二手市场也可以淘到一些 Aachen 中国人的二手家具和电器: [http://www.csuchen.de](http://www.csuchen.de/bbs/forumdisplay.php?fid=24)。不过要小心骗子。如果卖家让你去他的 QQ 空间看相片，还要输入 QQ 号和密码登录的，基本上都是用假的 QQ 空间网页盗你的 QQ 号。
 
 1. 二手市场(Flohmarkt)。 Aachen 及周边的二手市场，也叫做跳蚤市场，是由 Melan Trödelmarkt 组织的。一般是在周日，在大型超市如 Kaufland 或者 Real 等的停车场。二手市场都可以讲价格。也有一些全新的东西可以买到。你可以在 Melan 的网站上查看具体的时间及地点: <http://www.melan.de>
 
@@ -68,3 +69,4 @@ I> 电话：+49 241 1689 766
 I> #### Elektro Willi& Sohn   
 I> 地址：Jülicher Straße 44, 52070 Aachen    
 I> 电话：+49 241 5371 44  
+

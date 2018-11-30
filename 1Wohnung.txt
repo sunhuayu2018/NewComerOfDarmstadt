@@ -15,11 +15,9 @@
 
 
 ##网上资源
-1. <http://www.campuslife.de/anzeigen>：Kategorie 选 Wohnungen, Art 选 Angebote，找出来的房子几乎都是 Aachen 的，首先推荐在这找房子。
-
 1. <http://www.extraraum-aachen.de>: 这是亚琛市政府联合当地高校办的一个网站，全是本地房子。
 
-1. <http://groups.google.de/group/oecher.wohnungsmarkt/topics>：这是 Google 新闻组，也有很多有用的信息，新闻组链接里的 Öcher 是 Aachen 的别称。
+1. [Google 新闻组](http://groups.google.de/group/oecher.wohnungsmarkt/topics)，也有很多有用的信息，新闻组链接里的 Öcher 是 Aachen 的别称。
 
 1. [http://www.wg-gesucht.de](http://www.wg-gesucht.de/wg-zimmer-in-Aachen.1.0.0.0.html): WG Gesucht 主要是 WG (Wohngemeinschaft) 的相关信息，也就是合租，通常很多学生喜欢选择合租，但合租可能会面临一些问题，比如共用一些生活用品，共用厨房厕所之类的，另外还要跟其它租户处好关系。一个双人或多人 WG 里面男女合租是很平常的情况。学生宿舍里也是随机分配的，没有特别把男女分开。
 
@@ -27,9 +25,9 @@
 
 1. [http://aachen.studenten-wohnung.de](http://bit.ly/Studenten-Wohnung): 这是个主要面向学生的租房网站。
 
-1. <http://www.immobilienscout24.de>: 这应该算是德国最大的房屋类网站，从租房到卖房都有。这个网站由于用户比较多，所以房屋交易进行得很快，如果你要是发现了合适的房源，就要快和房主联系。
+1. [immobilienscout24.de](http://www.immobilienscout24.de): 这应该算是德国最大的房屋类网站，从租房到卖房都有。这个网站由于用户比较多，所以房屋交易进行得很快，如果你要是发现了合适的房源，就要快和房主联系。千万注意不在德国的房东用英语跟你邮件来往，让你通过 Airbnb 租他的房子等各类花招，目的就是要骗你交押金。千万记得，不签合同没拿钥匙不能交押金，押金要转帐，转到德国境外的百分百是骗局。
 
-1. [CSuchen.de 亚琛版块](http://www.csuchen.de/bbs/forumdisplay.php?fid=24): 亚琛当地学生论坛。要防 QQ 骗子，但如果找到合适的，就会比较简单，首先语言不是问题，另外也好商量，大家在国外，还是比较照顾同胞的。
+1. [CSuchen.de 亚琛版块](http://www.csuchen.de/bbs/forumdisplay.php?fid=24): 亚琛当地学生论坛。要防 QQ 钓鱼，骗你的 QQ 号和密码，但如果找到合适的，就会比较简单，首先语言不是问题，另外也好商量，大家在国外，还是比较照顾同胞的。
 
 ##学生宿舍
 - 在线申请大学学生宿舍：[Bewerberportal](https://bewerberportal.stw.rwth-aachen.de/app.php/de/)。申请后一般不会直接给你宿舍，因为等学生宿舍的人比较多，每个学生宿舍都会有一份等待列表(Wartelist)，如果申请之后，就要经常写邮件打电话问各个宿舍的负责人，在宿舍的网站上都会有联系方式的。更多信息请看这里: [www.studentenwerk-aachen.de](http://www.studentenwerk-aachen.de/de/wohnen/wohnanlagen.html)

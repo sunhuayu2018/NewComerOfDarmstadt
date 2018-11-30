@@ -1,4 +1,4 @@
-﻿#购物指南
+#购物指南
 
 ##步行街
 
@@ -12,37 +12,48 @@ Payback的积分券也有电子版，可以通过网站或者手机App在结账�
 下面这张图就是 Payback 联盟的商家：
 
 {width=96%}
-![](images/partnermap.png)
+![](images/partnermap.jpg)
 
 ### Kaufhof
-Kaufhof 就位于这条步行街上，就是一个百货大楼，地下一楼是个超市，喜欢吃猪蹄的可以去看一下，零层卖的东西有点杂，有化妆品，手表，包包，文具等，从一楼起就会有专门的主题，如男装、女装、运动装。营业时间从 9：30 到 20:00，同样周日不开门。如果国内有家人过来，买东西很多的话，可以索取退税单，Kaufhof 用的是 [环球蓝联 Global Blue](http://www.globalblue.cn) 退税。
+Galeria Kaufhof 是一个全德连锁的百货大楼，就位于这条步行街上。零层卖的东
+西有点杂，有化妆品，手表，包包，文具等，从一楼起就会有专门的主题，如男装、女装、运动装。营业时间从 9:30 到 20:00，同样周日不开门。最近 Kaufhof 内部结构调整，有一些商品柜台搬到了隔壁的一栋楼，如果主楼找不到，可以询问营业员到副楼购买。如果国内有家人过来，买东西很多的话，可以索取退税单， Kaufhof 用的是 环球蓝联 [环球蓝联 Global Blue](http://www.globalblue.cn) 退税。大件的东西也可以在其网店购买，经常还有网店专属的折扣，网址是 [galeria-kaufhof.de](http://www.galeria-kaufhof.de)，一样可以使用payback卡积分。
 
 
 ### AQUIS PLAZA
-AQUIS PLAZA 位于 Kaiserplatz 附近，是新开的购物中心，商店非常多，日用百货什么都有，比如衣服，鞋子，礼品，电器，快餐，儿童玩具等，这里居然还有 Aachen 市区唯一一家肯德基。 如果坐公交车可以在 Kaiserplatz 下车，从步行街走过去也就几分钟，开车的话可以导航到这个地址： Stiftstrasse 52062 Aachen， 可以开往停车场。
+
+AQUIS PLAZA 位于 Kaiserplatz 附近，是新开的购物中心，沿着步行街走几分钟到莲花喷泉即可到达。商店非常多，日用百货什么都有，比如衣服，鞋子，礼品，
+电器，快餐，儿童玩具等，这里还有 Aachen 市区唯一一家肯德基。如果坐公交车可以在 Kaiserplatz 下车，开车的话导航到这个地址：Stiftstrasse 52062 Aachen，可以开往停车场。
 
 I> ### AQUIS PLAZA 
-地址： Adalbertstraße 100 52062 Aachen  
+I> 地址： Adalbertstraße 100 52062 Aachen  
 I> 网址：<https://www.aquis-plaza.de>  
 
 ##中国超市
 
 ###中华行
 
-中华行离学校比较近，如果在 Super C 附近上课可以顺便去买点中国特色的新鲜小菜，比如豆芽，小白菜，豆腐之类的。
+中华行离学校比较近，如果在 Super C 附近上课可以顺便去买点中国特色的新鲜小菜，比如豆芽，小白菜，豆腐之类的。需要注意的是，超市只收现金。
 
 I> ### 中华行   
 I> 地址：Annuntiatenbach 1, 52062 aachen   
 I> 电话：+49 241 9431 5500   
 
-###中国家
 
-中国家在火车站附近，各种亚洲特色的食品还算齐全。有送米服务，可以去店里或打电话询问一下。
+###乐购超级市场
+位于亚琛主火车站对面，是亚琛最大的中国超市，品种比较齐全，交通也很方便，超市有送货服务，具体可到店咨询。
 
-I> ### 中国家   
-I> 地址：Theaterstraße 62, 52062 Aachen    
-I> 电话：+49 241 1893 7211   
-I> 营业：周一至周六 10:00 - 18:00   
+I> ### 乐购超级市场
+I> 地址：Bahnhofstraße 18, 52064 Aachen    
+I> 电话：+49 241 5159 6518   
+
+###万家超市
+
+这是一家新的中国超市，有些商品比中华行要便宜一点，最重要的是离kaufland很近，可以德国超市中国超市一起逛，比较方便。超市可以现金可以刷卡。
+
+I> ### 万家超市 
+I> 地址：Vaalserstr. 234, 52074 Aachen    
+I> 电话：+49 241 8880 418 
+I> 营业：周一至周六 10:00 - 19:00   
 
 ###Interfood
 
@@ -100,7 +111,7 @@ ALDI(阿尔迪)是德国公司阿尔迪南、北商业集团联盟的在全球�
 {width=30%}
 ![](images/Real.png)
 
-[Real](http://www.real.de)也是一个大型超市，比 Kaufland 还要大，里面的商品特别齐全，正如他们的口号：“Einmal hin, Alles drin”。如果你喜欢熬汤，可以试试 0.5 欧一公斤的猪骨头，其实骨头上还是有很多肉的。Real 地址为 Breslauer Straße 35，坐公交到 Dresdener Straße 下，然后根据路标提示走就可以了。
+[Real](http://www.real.de)也是一个大型超市，比 Kaufland 还要大，里面的商品特别齐全，正如他们的口号：“Einmal hin, Alles drin”。如果你喜欢熬汤，可以试试 0.5 欧左右一公斤的猪骨头(有时可能没货)，其实骨头上还是有很多肉的。Real 地址为 Breslauer Straße 35，坐公交到 Dresdener Straße 下，然后根据路标提示走就可以了。
 
 ###荷兰Vaals鱼市
 
@@ -113,7 +124,7 @@ ALDI(阿尔迪)是德国公司阿尔迪南、北商业集团联盟的在全球�
 {width=40%}
 ![](images/Designer_Outlet_Roermond.jpg)
 
-[Designer Outlet Roermond](http://www.mcarthurglen.com/nl/designer-outlet-roermond/cn/)是距离亚琛最近的大型打折村，里面有144个品牌商品，包含男装、女装、童装、配饰、家居用品和餐饮。具体品牌信息可以看官方网站。每年 Roermond 打折村还会有折上折活动，打折力度更大，还会有一些额外的打折券。有网友提到在 Heerlen 火车站的 Information 那里常年都有打折村的 9 折券，用这个打折券可以在打折村的 Information 换一个打折用的卡，这样就有五次享受9折优惠的机会了，如果路过那不妨留意一下。作为学生去打折村最方便的办法就是在 CSuchen 上“求被捡”，也就是跟有车的学长一起去，摊个油费就好了，如果不怕折腾，可以考虑参考学长写的攻略：  
+[Designer Outlet Roermond](http://www.mcarthurglen.com/nl/designer-outlet-roermond/cn/)是距离亚琛最近的大型打折村，里面有197个品牌商品，包含男装、女装、童装、配饰、家居用品和餐饮。具体品牌信息可以看官方网站。每年 Roermond 打折村还会有折上折活动，打折力度更大，还会有一些额外的打折券。有网友提到在 Heerlen 火车站的 Information 那里常年都有打折村的 9 折券，用这个打折券可以在打折村的 Information 换一个打折用的卡，这样就有五次享受9折优惠的机会了，如果路过那不妨留意一下，不过这个九折卡一般不能用在已经打折的商品上，具体情况可以咨询店员。作为学生去打折村最方便的办法就是在 CSuchen 上“求被捡”，也就是跟有车的学长一起去，摊个油费就好了，如果不怕折腾，可以考虑参考学长写的攻略：  
 <http://www.csuchen.de/bbs/viewthread.php?tid=385837>。
 
 
